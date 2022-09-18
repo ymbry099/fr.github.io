@@ -1,0 +1,2 @@
+# fr.github.io
+template
